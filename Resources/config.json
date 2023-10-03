@@ -1,0 +1,16 @@
+{
+    "AuthDatabaseConfiguration": {
+        "Host": "localhost",
+        "Port": 5432,
+        "Database": "gameauth",
+        "Username": "postgres",
+        "Password": "11111"
+    },
+    "DatabaseConfiguration": {
+        "Host": "localhost",
+        "Port": 5432,
+        "Database": "game",
+        "Username": "postgres",
+        "Password": "11111"
+    }
+}
